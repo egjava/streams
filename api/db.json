@@ -1,0 +1,35 @@
+{
+  "streams": [
+    {
+      "title": "Stream",
+      "description": "This is a Stream",
+      "id": 1
+    },
+    {
+      "title": "Stream",
+      "description": "This is a Stream",
+      "id": 2
+    },
+    {
+      "title": "Stream3",
+      "description": "This is a Stream3",
+      "id": 3
+    },
+    {
+      "title": "stream23",
+      "description": "This is stream 23",
+      "id": 4
+    },
+    {
+      "title": "Another Streamedit",
+      "description": "After code reuse edit stream",
+      "id": 7
+    },
+    {
+      "title": "test",
+      "description": "test delete stream",
+      "userId": "114761517162678600746",
+      "id": 8
+    }
+  ]
+}
